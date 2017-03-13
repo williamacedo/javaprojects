@@ -48,8 +48,10 @@ public class main {
 		salario.setCategorias(categoria);
 		categoria.getSalarios().add(salario);
 		salario1.setCategorias(categoria1);
-		categoria2.getSalarios().add(salario2);
+		categoria1.getSalarios().add(salario1);
 		salario2.setCategorias(categoria2);
+		categoria2.getSalarios().add(salario2);
+		salario3.setCategorias(categoria3);
 		categoria3.getSalarios().add(salario3);
 			
 
